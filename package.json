@@ -62,7 +62,7 @@
     "rfs": "^9.0.3",
     "rimraf": "^3.0.2",
     "script-ext-html-webpack-plugin": "^2.1.4",
-    "sharp": "^0.26.0",
+    "sharp": "^0.30.5",
     "snowpack": "^2.11.1",
     "stylelint": "^13.7.1",
     "stylelint-config-prettier": "^8.0.2",
